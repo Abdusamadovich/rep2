@@ -1,0 +1,79 @@
+
+<div class="main-4">
+        <div class="main4-text">
+          <h1>Building the best space <br>
+            for collaboration.</h1>
+        <div class="text-small">
+          <div class="icon">
+            <div>
+              <img src="foto\icon_1.svg" alt="">
+            </div>
+            <div class="text-icon"></div>
+            <div>
+              <h3>Shared Cloud Libraries</h3>
+            </div>
+            <p>Navigate to the Your work panel in the left sidebar. <br> 
+              Select the library you want to share. Select the Share  <br>
+              icon in the upper right to share the library.</p>
+          </div>
+          </div>
+        </div>
+        <div class="text-small">
+          <div class="icon">
+            <div>
+              <img src="foto\icon_1.svg" alt="">
+            </div>
+            <div class="text-icon">
+              <div>
+                <h3>Shared Cloud Libraries</h3>
+              </div>
+              <p>Navigate to the Your work panel in the left sidebar. <br> 
+                Select the library you want to share. Select the Share  <br>
+                icon in the upper right to share the library.</p>
+            </div>
+          </div>
+        </div>
+        <div class="text-small">
+          <div class="icon">
+            <div>
+              <img src="foto\icon_2.svg" alt="">
+            </div>
+            <div>
+              <h3>Free developer handoff, right inside</h3>
+            </div>
+            <p>Cloud Inspector makes it easy for developers to get <br>
+              the information they need to turn pixels into code — <br>
+              all in the browser and, most importantly, for free.</p>
+          </div>
+        </div>
+        <div class="text-small">
+          <div class="icon">
+            <div>
+              <img src="foto\icon_3.svg" alt="">
+            </div>
+            <div class="text-icon"></div>
+            <div>
+              <h3>Real-time collaborative editing</h3>
+            </div>
+            <p>Room Service helps you build real-time <br> collaborative features. Add real-time data sync! Let <br> users edit the same data at the same time.</p>
+          </div>
+          </div>
+        </div>
+        <div class="text-small">
+          <div class="icon">
+            <div>
+              <img src="foto\icon_4.svg" alt="">
+            </div>
+            <div class="text-icon"></div>
+            <div class="text-icon"></div>
+            <div>
+              <h3>Integrations with the Cloud API</h3>
+            </div>
+            <p>Unlocking that value requires an iPaaS that delivers <br> the transformative power of APIs and integration. </p>
+          </div>
+          </div>
+          </div>
+        </div>
+      </div>
+        <img src="foto\Illustration_3.svg" alt="">
+        </div>
